@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋 你好呀！
 
 <!--
-**jiangcheng1997/jiangcheng1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**jiangcheng1997/jiangcheng1997** 是一个 ✨ 特殊的 ✨ 仓库，因为它的 `README.md`（这个文件）会显示在您的 GitHub 个人主页上。
 -->
+
+我是一名计算机/软件工程/电子信息（根据你的实际专业修改）专业的**大二学生**，正在努力把代码写得更好一点 🚀
+
+- 🔭 我正在努力完成：专业课作业 + 一个小项目（比如：待办清单App / 个人博客 / 校园助手）
+- 🌱 我正在学习：数据结构与算法 / Python / Java / 前端基础（选你正在学的）
+- 👯 我想一起合作：课设项目 / 开源新手任务 / 组队参加比赛（如“互联网+”、服创大赛）
+- 🤔 我需要帮助：如何高效刷LeetCode / 如何写出更规范的代码
+- 💬 可以问我：大二怎么选方向、Git/GitHub基础、期末复习方法
+- 📫 怎么联系我：xxxxx@xxx.edu.cn（你的学校邮箱） / 也可以在这里提issue
+- 😄 称呼：随便叫～
+- ⚡ 有趣的事：我经常看着自己的代码笑出来（不是因为写得好，是因为太奇怪了😂）
+
+---
+
+⭐ 欢迎来看看我的小项目，一起交流学习～
